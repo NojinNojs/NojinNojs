@@ -10,7 +10,7 @@
 
 ### hey, i'm nojin.
 
-I'm a computer science student at **MIT**, building backend architectures, distributed web systems, and small terminal tools on **Linux / NixOS**.
+I'm a software developer and **CS @ MIT** <sub>(i wish)</sub>, building backend architectures, distributed web systems, and small terminal tools on **Linux / NixOS**.
 
 I don't stick to a single favorite tech stack; I just pick up whatever fits the problem. Lately I've been diving deeper into **Rust** and low-level systems programming, alongside **cybersecurity**, **blockchain**, and **Web3**.
 
@@ -22,7 +22,7 @@ Outside of code, I spend a lot of time reading, especially **Fyodor Dostoevsky**
 # nojin@mit-node ~ $ cat /etc/nojin.conf
 [node]
 alias       = "Nojin"
-role        = "CS @ MIT"
+role        = "CS @ MIT (i wish)"
 system      = "Linux / NixOS"
 usual_kit   = ["TypeScript", "Rust", "PHP / Laravel", "Next.js", "Bun", "PostgreSQL", "SQLite"]
 learning    = ["Systems & Kernel", "Cybersecurity", "Blockchain & Web3", "TUI"]
