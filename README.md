@@ -22,31 +22,53 @@ When I'm away from the terminal, I'm usually reading, mostly **Dostoevsky** and 
 # nojin@nixos ~ $ cat /etc/nojin.conf
 
 [identity]
-alias      = "Nojin"
-role       = "Software Developer"
-os         = "Linux / NixOS"
+alias       = "Nojin"
+role        = "Software Developer"
+os          = "Linux / NixOS"
 
 [interests]
-primary    = ["Backend Development", "Full-Stack Web", "Software Engineering"]
-exploring  = ["Rust (learning from scratch)", "Cybersecurity", "Blockchain & Web3", "TUI"]
+primary     = ["Backend Development", "Full-Stack Web", "Software Engineering"]
+exploring   = ["Rust (learning from scratch)", "Cybersecurity", "Blockchain & Web3", "TUI"]
 usual_tools = ["TypeScript", "PHP / Laravel", "Next.js", "Astro", "Bun", "PostgreSQL", "SQLite"]
 
 [offline]
-reading    = ["Fyodor Dostoevsky", "Pramoedya Ananta Toer"]
+reading     = ["Fyodor Dostoevsky", "Pramoedya Ananta Toer"]
 ```
 
 ---
 
 ### projects
 
-- **[komo](https://github.com/NojinNojs/komo)** (`Rust`, `Ratatui`) : A virtual pet that lives in your terminal.
-- **[karsa-bot](https://github.com/NojinNojs/karsa-bot)** (`TypeScript`, `Bun`, `SQLite`) : Coffee stall economy bot for Discord with pixel-art cards.
-- **[eve-ded-tracker](https://github.com/NojinNojs/eve-ded-tracker)** (`Next.js`, `Supabase`) : Loot and profit tracker for EVE Online runs. ([live](https://eve-ded-tracker.vercel.app))
-- **[mellblue](https://github.com/NojinNojs/mellblue)** (`Laravel`, `React`, `Inertia`) : Online food store with order tracking and PDF receipts.
-- **[toko-sparepart](https://github.com/NojinNojs/toko-sparepart)** (`Laravel`, `Tailwind`) : Auto parts catalog and admin dashboard.
-- **[tobuk-app](https://github.com/NojinNojs/tobuk-app)** (`Laravel`, `React`) : Online bookstore and inventory app.
-- **[moment](https://github.com/NojinNojs/moment)** (`TypeScript`, `React`) : Personal expense tracker.
-- **[lyrics-transcriber](https://github.com/NojinNojs/lyrics-transcriber)** (`Python`, `Whisper`) : CLI tool that generates timed lyrics from audio files.
+<div align="center">
+  <a href="https://github.com/NojinNojs/komo"><img src="./assets/node-komo.svg" alt="komo" width="49%" /></a>
+  <a href="https://github.com/NojinNojs/karsa-bot"><img src="./assets/node-karsa.svg" alt="karsa-bot" width="49%" /></a>
+  <br />
+  <a href="https://github.com/NojinNojs/eve-ded-tracker"><img src="./assets/node-eve.svg" alt="eve-ded-tracker" width="49%" /></a>
+  <a href="https://github.com/NojinNojs/mellblue"><img src="./assets/node-mellblue.svg" alt="mellblue" width="49%" /></a>
+</div>
+
+<details>
+  <summary><code>▸ ls /wired/more-projects (4)</code></summary>
+  <br />
+
+  - **[toko-sparepart](https://github.com/NojinNojs/toko-sparepart)** (`Laravel`, `Tailwind`) : Auto parts catalog and admin dashboard with server-side GD image processing.
+  - **[tobuk-app](https://github.com/NojinNojs/tobuk-app)** (`Laravel`, `React`) : Online bookstore and inventory management app.
+  - **[moment](https://github.com/NojinNojs/moment)** (`TypeScript`, `React`) : Personal finance and multi-account expense tracker.
+  - **[lyrics-transcriber](https://github.com/NojinNojs/lyrics-transcriber)** (`Python`, `Whisper`) : CLI tool that generates word-by-word timed lyrics from audio files.
+</details>
+
+---
+
+### telemetry
+
+<div align="center">
+  <img src="./assets/wired-signal.svg" alt="NAVI Telemetry" width="100%" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=NojinNojs&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0b0b0e&title_color=d2738a&text_color=a1a1aa&icon_color=63c5ff&border_color=24242c&border_radius=4" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NojinNojs&layout=compact&langs_count=6&bg_color=0b0b0e&title_color=d2738a&text_color=a1a1aa&border_color=24242c&border_radius=4" height="165" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=NojinNojs&theme=dark&background=0B0B0E&border=24242C&border_radius=4&ring=D2738A&fire=63C5FF&currStreakLabel=D2738A&sideLabels=A1A1AA&currStreakNum=E4E4E7&sideNums=E4E4E7&dates=52525B" height="155" alt="Streak Stats" />
+</div>
 
 <br />
 
