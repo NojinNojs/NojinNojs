@@ -10,22 +10,23 @@
 
 ### hey, i'm nojin.
 
-I'm a software developer from Jakarta. I like exploring different parts of software engineering (frontend, full-stack, and terminal tools), though I naturally spend most of my time on **backend development**.
+I'm a computer science student at **MIT**, building backend architectures, distributed web systems, and small terminal tools on **Linux / NixOS**.
 
-I don't really have one favorite tech stack; I just pick up whatever fits the problem. Ever since moving to **Linux / NixOS**, I've been drawn to **Rust** and systems programming, so I'm currently learning it from the ground up alongside **cybersecurity**, **blockchain**, and **Web3**.
+I don't stick to a single favorite tech stack; I just pick up whatever fits the problem. Lately I've been diving deeper into **Rust** and low-level systems programming, alongside **cybersecurity**, **blockchain**, and **Web3**.
 
 Outside of code, I spend a lot of time reading, especially **Fyodor Dostoevsky** and **Pramoedya Ananta Toer**.
 
 <br clear="right" />
 
 ```ini
-# nojin@nixos ~ $ cat /etc/nojin.conf
+# nojin@mit-node ~ $ cat /etc/nojin.conf
 [node]
 alias       = "Nojin"
+role        = "CS @ MIT"
 system      = "Linux / NixOS"
-usual_kit   = ["TypeScript", "PHP / Laravel", "Next.js", "Astro", "Bun", "PostgreSQL", "SQLite"]
-learning    = ["Rust (from scratch)", "Cybersecurity", "Blockchain & Web3", "TUI"]
-reading     = ["Dostoevsky", "Pramoedya Ananta Toer"]
+usual_kit   = ["TypeScript", "Rust", "PHP / Laravel", "Next.js", "Bun", "PostgreSQL", "SQLite"]
+learning    = ["Systems & Kernel", "Cybersecurity", "Blockchain & Web3", "TUI"]
+reading     = ["Fyodor Dostoevsky", "Pramoedya Ananta Toer"]
 ```
 
 ---
