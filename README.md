@@ -6,7 +6,7 @@
 
 <br />
 
-<img align="right" width="230" src="./assets/present-day-eyes.png" alt="present day, present time" />
+<img align="right" width="225" src="./assets/present-day-eyes.png" alt="present day, present time" />
 
 ### hey, i'm nojin.
 
@@ -67,6 +67,15 @@ reading     = ["Dostoevsky", "Pramoedya Ananta Toer"]
 
 <div align="center">
   <img src="./assets/navi-telemetry.svg" alt="Copland OS Telemetry" width="100%" />
+  <br /><br />
+  <a href="https://github.com/NojinNojs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NojinNojs&show_icons=true&hide_rank=true&count_private=true&disable_animations=true&bg_color=09090d&title_color=d2738a&text_color=a1a1aa&icon_color=63c5ff&border_color=22222c&border_radius=5" width="49.2%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NojinNojs&layout=compact&langs_count=6&bg_color=09090d&title_color=d2738a&text_color=a1a1aa&border_color=22222c&border_radius=5" width="49.2%" alt="Top Languages" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/NojinNojs">
+    <img src="https://streak-stats.demolab.com?user=NojinNojs&theme=dark&background=09090D&border=22222C&border_radius=5&ring=D2738A&fire=63C5FF&currStreakLabel=D2738A&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A" width="99.5%" alt="Streak Stats" />
+  </a>
 </div>
 
 <br />
