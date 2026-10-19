@@ -6,7 +6,7 @@
 
 <br />
 
-<img align="right" width="210" src="./assets/present-day-eyes.png" alt="lain" />
+<img align="right" width="230" src="./assets/present-day-eyes.png" alt="present day, present time" />
 
 ### hey, i'm nojin.
 
@@ -32,13 +32,24 @@ reading     = ["Dostoevsky", "Pramoedya Ananta Toer"]
 
 ### projects
 
-<div align="center">
-  <a href="https://github.com/NojinNojs/komo"><img src="./assets/node-komo.svg" alt="komo" width="49%" /></a>
-  <a href="https://github.com/NojinNojs/karsa-bot"><img src="./assets/node-karsa.svg" alt="karsa-bot" width="49%" /></a>
-  <br />
-  <a href="https://github.com/NojinNojs/eve-ded-tracker"><img src="./assets/node-eve.svg" alt="eve-ded-tracker" width="49%" /></a>
-  <a href="https://github.com/NojinNojs/mellblue"><img src="./assets/node-mellblue.svg" alt="mellblue" width="49%" /></a>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/komo"><img src="./assets/node-komo.svg" alt="komo" width="100%" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/karsa-bot"><img src="./assets/node-karsa.svg" alt="karsa-bot" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/eve-ded-tracker"><img src="./assets/node-eve.svg" alt="eve-ded-tracker" width="100%" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/mellblue"><img src="./assets/node-mellblue.svg" alt="mellblue" width="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><code>▸ ls /wired/more-projects (4)</code></summary>
@@ -56,9 +67,6 @@ reading     = ["Dostoevsky", "Pramoedya Ananta Toer"]
 
 <div align="center">
   <img src="./assets/navi-telemetry.svg" alt="Copland OS Telemetry" width="100%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=NojinNojs&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=true&bg_color=09090d&title_color=d2738a&text_color=a1a1aa&icon_color=63c5ff&border_color=22222c&border_radius=5" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=NojinNojs&theme=dark&background=09090D&border=22222C&border_radius=5&ring=D2738A&fire=63C5FF&currStreakLabel=D2738A&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A" width="49%" alt="Streak Stats" />
 </div>
 
 <br />
