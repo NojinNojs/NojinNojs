@@ -1,24 +1,130 @@
-<h1 align="center">Hi 👋! My name is Nojin/Raffi and I'm a student, from Indonesia</h1>
-
-###
-
-<br clear="both">
-
-###
-
-<h2 align="left">Tech I use</h2>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
-
-###
-<h2 align="left">Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NojinNojs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NojinNojs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NojinNojs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NojinNojs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=NojinNojs&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="./assets/nojin-banner.svg" alt="Nojin (@NojinNojs) — Full-Stack Web & Systems Developer" width="100%" />
 </div>
 
-###
+<br />
+
+<div align="center">
+  <a href="https://aqsan-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-aqsan--dev.vercel.app-38bdf8?style=flat-square&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/NojinNojs?tab=repositories"><img src="https://img.shields.io/badge/Focus-Full--Stack_Web_%26_Systems-22c55e?style=flat-square" alt="Focus" /></a>
+  <a href="https://nixos.org"><img src="https://img.shields.io/badge/OS-NixOS_26.05-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="NixOS" /></a>
+  <img src="https://img.shields.io/badge/Location-Jakarta%2C_Indonesia-f59e0b?style=flat-square" alt="Jakarta, Indonesia" />
+</div>
+
+---
+
+## 👋 Hey, I'm **Nojin**
+
+I'm **Nojin** (*Muhammad Raffi Aqsan*) — a Full-Stack Web & Systems Developer based in **Jakarta, Indonesia**.
+
+I build fast, tactile web applications, production backends, and pixel-accurate terminal/canvas tools. My work spans modern frontend architecture (**Astro**, **Next.js**, **React**, **GSAP**), full-stack commerce & internal dashboards (**Laravel 12**, **Bun**, **TypeScript**, **PostgreSQL**, **SQLite WAL**), and low-overhead systems software in **Rust** running on **NixOS**. Previously, I completed a 6-month hands-on software & IT engineering internship at **BRIN** (*Badan Riset dan Inovasi Nasional*).
+
+---
+
+## 🚀 Featured Engineering Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/NojinNojs/komo">KOMO</a></h3>
+      <p><strong>Living Terminal Companion &amp; 40×22 TrueColor Pixel-Art TUI in Rust</strong></p>
+      <p>A zero-bloat terminal habitat built with Rust and Ratatui. Renders a 40×22 half-block TrueColor canvas with a 6-species evolution engine, autonomous daily schedules, deterministic pixel-art PNG card exporter (<code>--share</code>), and atomic JSON persistence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-1.87+-f97316?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ratatui-TUI-a855f7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tests-38%2F38_Passing-22c55e?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/NojinNojs/karsa-bot">KARSA</a></h3>
+      <p><strong>Night-Market Coffee Stall &amp; Cooperative Economy Discord Bot</strong></p>
+      <p>A Dockerized multiplayer economic simulation bot built on Bun, TypeScript, and SQLite WAL ACID transactions. Features a custom deterministic 16-bit pixel-art card renderer (<code>@napi-rs/canvas</code> at 384×216 upscaled 3× nearest-neighbor) and bilingual ID/EN support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Bun-1.4+-f472b6?style=flat-square&logo=bun&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-Strict-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-WAL_ACID-003b57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/NojinNojs/aqsan-dev">aqsan-dev</a></h3>
+      <p><strong>Motion-Driven Personal Engineering Portfolio</strong> · <a href="https://aqsan-dev.vercel.app">Live Site ↗</a></p>
+      <p>Personal portfolio and engineering showcase built with Astro 5, GSAP 3.15, Lenis smooth momentum scrolling, and strict TypeScript. Designed for near-instant static delivery, choreographed scroll interactions, and full Schema.org metadata.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Astro-5.x-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+        <img src="https://img.shields.io/badge/GSAP-3.15-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-Strict-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍰 <a href="https://github.com/NojinNojs/mellblue">MELLBLUE</a></h3>
+      <p><strong>Full-Stack Artisan Food E-Commerce Platform</strong></p>
+      <p>End-to-end commerce platform built with Laravel 12, React 19, Inertia.js, and Tailwind CSS v4. Covers catalog variants, checkout, payment proof verification, real-time order status timelines, admin analytics, and automated DomPDF invoice generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Inertia.js-2.0-9553E9?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/NojinNojs/eve-ded-tracker">EVE DED Tracker</a></h3>
+      <p><strong>Combat Ledger &amp; PnL Analytics Web App</strong> · <a href="https://eve-ded-tracker.vercel.app">Live Site ↗</a></p>
+      <p>Full-stack profit/loss tracker and escalation farming analytics app for EVE Online players. Built with Next.js 16 (App Router), React 19, Bun, Tailwind CSS v4, and Supabase authentication with bilingual EN/ID switching.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-Auth_%26_DB-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-v4-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/NojinNojs/toko-sparepart">Toko Sparepart Otomotif</a> &amp; <a href="https://github.com/NojinNojs/brin-client-count">BRIN Dashboard</a></h3>
+      <p><strong>Production E-Commerce &amp; Institutional Telemetry</strong></p>
+      <p>Automotive spare parts e-commerce with client-side Cropper.js + server-side PHP GD image optimization in Laravel 12, alongside a real-time visitor &amp; session monitoring dashboard built in Next.js during my internship at BRIN.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-TypeScript-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Daily Environment
+
+- **Languages:** TypeScript, JavaScript (ES2024+), Rust, PHP 8.3+, Python, SQL, HTML5/CSS3
+- **Frontend & Motion:** Next.js (App Router), Astro 5, React 19, Tailwind CSS v4, shadcn/ui, GSAP, Lenis
+- **Backend & Runtime:** Bun, Node.js, Laravel 12, Hono, Express, Hapi, Inertia.js, REST APIs
+- **Data & Infrastructure:** PostgreSQL, MySQL/MariaDB, SQLite (WAL), Supabase, Docker, NixOS, Linux, Vercel, Cloudflare
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
+</p>
+
+---
+
+## 📊 GitHub Activity & Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NojinNojs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=cbd5e1" height="165" alt="Nojin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NojinNojs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NojinNojs&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8" height="155" alt="GitHub Streak" />
+</div>
