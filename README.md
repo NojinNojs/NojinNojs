@@ -6,20 +6,34 @@
 
 <br />
 
-<img align="right" width="215" src="./assets/present-day-eyes.png" alt="lain" />
+<img align="right" width="205" src="./assets/present-day-eyes.png" alt="lain" />
 
 ### hey, i'm nojin.
 
-I'm a developer from Jakarta. I spend most of my time building web backends, full-stack apps, and small terminal tools in TypeScript and Rust on NixOS.
+I'm a software developer who likes exploring a bit of everything across software engineering—frontend, full-stack, and terminal tools—though I naturally lean most toward **backend development**.
 
-Right now I'm just focused on getting a bit better every day. Outside of web and CLI stuff, I've been digging into cybersecurity, blockchain/Web3, and mobile development.
+I don't really stick to a single favorite tech stack; I just use whatever gets the job done. Lately, living on **Linux / NixOS** got me genuinely curious about **Rust** and systems programming, so I'm slowly learning it from the ground up alongside **cybersecurity**, **blockchain**, and **Web3**.
 
-- **setup:** NixOS, Niri, Ghostty
-- **languages:** TypeScript, Rust, PHP, Python, SQL
-- **web & backend:** Bun, Laravel, Next.js, Astro, React, Hono, PostgreSQL, SQLite
-- **learning next:** cybersecurity, Web3, mobile apps
+When I'm away from the terminal, I'm usually reading—mostly **Dostoevsky** and **Pramoedya Ananta Toer**.
 
 <br clear="right" />
+
+```ini
+# nojin@nixos ~ $ cat /etc/nojin.conf
+
+[identity]
+alias      = "Nojin"
+role       = "Software Developer"
+os         = "Linux / NixOS"
+
+[interests]
+primary    = ["Backend Development", "Full-Stack Web", "Software Engineering"]
+exploring  = ["Rust (learning from scratch)", "Cybersecurity", "Blockchain & Web3", "TUI"]
+usual_tools = ["TypeScript", "PHP / Laravel", "Next.js", "Astro", "Bun", "PostgreSQL", "SQLite"]
+
+[offline]
+reading    = ["Fyodor Dostoevsky", "Pramoedya Ananta Toer"]
+```
 
 ---
 
