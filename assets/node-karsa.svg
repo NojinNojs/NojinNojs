@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 138" width="410" height="135">
+  <defs>
+    <style>
+      .bg { fill: #0b0b0e; }
+      .frame { fill: none; stroke: #24242c; stroke-width: 1; }
+      .frame-accent { fill: none; stroke: #d2738a; stroke-width: 1.5; opacity: 0.75; }
+      .header-bg { fill: #121218; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .node-tag { font-size: 10px; fill: #71717a; letter-spacing: 1px; }
+      .status-tag { font-size: 9.5px; fill: #d2738a; letter-spacing: 0.8px; }
+      .title { font-size: 15px; font-weight: 700; fill: #e4e4e7; }
+      .desc { font-size: 12px; fill: #a1a1aa; }
+      .stack { font-size: 10.5px; fill: #71717a; }
+      .lang { font-size: 11px; fill: #d4d4d8; font-weight: 600; }
+      .pulse {
+        animation: blink 2.6s infinite ease-in-out;
+        animation-delay: 0.6s;
+      }
+      .scanline {
+        animation: scan 6s infinite linear;
+        opacity: 0.06;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.2; }
+      }
+      @keyframes scan {
+        0% { transform: translateY(0px); }
+        100% { transform: translateY(138px); }
+      }
+    </style>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#18181f" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+
+  <!-- Card Background & Subtle Grid -->
+  <rect width="420" height="138" rx="4" class="bg"/>
+  <rect width="420" height="138" rx="4" fill="url(#grid)"/>
+
+  <!-- Animated CRT Scanline bar -->
+  <rect x="1" y="0" width="418" height="14" fill="#63c5ff" class="scanline"/>
+
+  <!-- Top Copland OS Window Bar -->
+  <rect x="1" y="1" width="418" height="26" rx="3" class="header-bg"/>
+  <line x1="1" y1="27" x2="419" y2="27" stroke="#24242c" stroke-width="1"/>
+
+  <!-- Pulsing Signal LED & Node Label -->
+  <circle cx="14" cy="14" r="3" fill="#d2738a" class="pulse"/>
+  <text x="24" y="17.5" class="mono node-tag">NODE_02 // KARSA.BOT</text>
+  <text x="406" y="17.5" text-anchor="end" class="mono status-tag">ACTIVE ■</text>
+
+  <!-- Project Title & Description -->
+  <text x="16" y="50" class="mono title">karsa-bot</text>
+  <text x="16" y="72" class="sans desc">Night-market coffee stall and co-op economy bot for Discord.</text>
+  <text x="16" y="90" class="sans desc">Renders 16-bit status cards in memory with SQLite transactions.</text>
+
+  <!-- Bottom Divider & Stack Telemetry -->
+  <line x1="16" y1="106" x2="404" y2="106" stroke="#18181f" stroke-width="1"/>
+  <circle cx="22" cy="121" r="4" fill="#3178c6"/>
+  <text x="32" y="124.5" class="mono lang">TypeScript</text>
+  <text x="404" y="124.5" text-anchor="end" class="mono stack">bun · sqlite · canvas</text>
+
+  <!-- Outer Wireframe & Corner Registration Marks -->
+  <rect x="0.5" y="0.5" width="419" height="137" rx="4" class="frame"/>
+  <path d="M 0.5 10 L 0.5 0.5 L 10 0.5" class="frame-accent"/>
+  <path d="M 410 0.5 L 419.5 0.5 L 419.5 10" class="frame-accent"/>
+  <path d="M 0.5 128 L 0.5 137.5 L 10 137.5" class="frame-accent"/>
+  <path d="M 410 137.5 L 419.5 137.5 L 419.5 128" class="frame-accent"/>
+</svg>
