@@ -1,59 +1,88 @@
 <div align="center">
-  <img src="./assets/wired-banner.jpg" alt="" width="100%" />
+  <img src="./assets/wired-banner.jpg" alt="present day, present time" width="100%" />
+  <br />
+  <sub><code>present day, present time.</code></sub>
 </div>
 
-# hey, i'm nojin
+<br />
 
-I write software. Mostly backend, mostly TypeScript and Rust, and whatever the problem actually needs. I use NixOS, I read too much Dostoevsky, and I take things apart to see how they fail.
+<img align="right" width="225" src="./assets/present-day-eyes.png" alt="present day, present time" />
 
-Site: [nojin.is-a.dev](https://nojin.is-a.dev) · X: [@NojsNojin](https://x.com/NojsNojin) · Discord: `nojsnojin`
+### hey, i'm nojin.
 
-Below is what people usually end up asking me — in interviews, in DMs, in project threads. Better answered here than twice in a row.
+I'm a software developer and **CS @ MIT** <sub>(i wish)</sub>, building backend architectures, distributed web systems, and small terminal tools on **Linux / NixOS**.
 
-## what do you actually do?
+I don't stick to a single favorite tech stack; I just pick up whatever fits the problem. Lately I've been diving deeper into **Rust** and low-level systems programming, alongside **cybersecurity**, **blockchain**, and **Web3**.
 
-Backend and full-stack work: APIs, data models, integrations, and the unglamorous parts that keep them running. I also build small terminal tools, because I use them daily and I'd rather own the tool than fight it.
+Outside of code, I spend a lot of time reading, especially **Fyodor Dostoevsky** and **Pramoedya Ananta Toer**.
 
-## what are you good at?
+<br clear="right" />
 
-Schema and data modelling before the first endpoint. Finishing small things instead of abandoning big ones. Debugging from logs and stack traces instead of guessing at the symptom. Reading someone else's codebase without rewriting it out of spite.
+```ini
+# nojin@mit-node ~ $ cat /etc/nojin.conf
+[node]
+alias       = "Nojin"
+role        = "CS @ MIT (i wish)"
+system      = "Linux / NixOS"
+usual_kit   = ["TypeScript", "Rust", "PHP / Laravel", "Next.js", "Bun", "PostgreSQL", "SQLite"]
+learning    = ["Systems & Kernel", "Cybersecurity", "Blockchain & Web3", "TUI"]
+reading     = ["Fyodor Dostoevsky", "Pramoedya Ananta Toer"]
+```
 
-## what's your stack?
+---
 
-TypeScript with Bun or Node, Rust when the job wants it, PHP/Laravel when a project already lives there. PostgreSQL and SQLite. Svelte, React, Astro, Next for the front. Linux — NixOS — as the daily machine.
+### projects
 
-No favourite and I won't pretend to have one. I pick what fits the constraints and tell you why.
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/komo"><img src="./assets/node-komo.svg" alt="komo" width="100%" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/karsa-bot"><img src="./assets/node-karsa.svg" alt="karsa-bot" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/eve-ded-tracker"><img src="./assets/node-eve.svg" alt="eve-ded-tracker" width="100%" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/NojinNojs/mellblue"><img src="./assets/node-mellblue.svg" alt="mellblue" width="100%" /></a>
+    </td>
+  </tr>
+</table>
 
-## what have you shipped?
+<details>
+  <summary><code>▸ ls /wired/more-projects (4)</code></summary>
+  <br />
 
-- **[eve-ded-tracker](https://github.com/NojinNojs/eve-ded-tracker)** — loot and profit tracker for EVE Online runs. Next.js, Supabase, TypeScript.
-- **[komo](https://github.com/NojinNojs/komo)** — a virtual pet that lives in your terminal. Rust.
-- **[karsa-bot](https://github.com/NojinNojs/karsa-bot)** — Discord economy bot for a made-up coffee town. Bun, TypeScript, SQLite.
-- **[lyrics-transcriber](https://github.com/NojinNojs/lyrics-transcriber)** — word-level timed lyrics from Whisper output. Python.
-- **[mellblue](https://github.com/NojinNojs/mellblue)** — food store with order tracking and PDF receipts. Laravel, React.
-- **[toko-sparepart](https://github.com/NojinNojs/toko-sparepart)** — auto parts catalog and admin dashboard with server-side image processing. Laravel, Tailwind.
-- **[tobuk-app](https://github.com/NojinNojs/tobuk-app)** — bookstore and inventory app. Laravel, React.
-- **[moment](https://github.com/NojinNojs/moment)** — personal finance tracker. TypeScript, React.
-- **[to-do-next](https://github.com/NojinNojs/to-do-next)** — task manager with role-based access. Next.js, SQLite.
+  - **[toko-sparepart](https://github.com/NojinNojs/toko-sparepart)** (`Laravel`, `Tailwind`) : Auto parts catalog and admin dashboard with server-side GD image processing.
+  - **[tobuk-app](https://github.com/NojinNojs/tobuk-app)** (`Laravel`, `React`) : Online bookstore and inventory management app.
+  - **[moment](https://github.com/NojinNojs/moment)** (`TypeScript`, `React`) : Personal finance and multi-account expense tracker.
+  - **[lyrics-transcriber](https://github.com/NojinNojs/lyrics-transcriber)** (`Python`, `Whisper`) : CLI tool that generates word-by-word timed lyrics from audio files.
+</details>
 
-Some client work isn't public. Ask and I'll describe what I built without naming the client.
+---
 
-## how do you work?
+### telemetry
 
-Async and written. A short spec beats a meeting, and a pull request beats a status update. I test before I push. If something won't land on time, you hear it early, not on the deadline.
+<div align="center">
+  <img src="./assets/navi-telemetry.svg" alt="Copland OS Telemetry" width="100%" />
+  <br /><br />
+  <a href="https://github.com/NojinNojs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NojinNojs&show_icons=true&hide_rank=true&count_private=true&disable_animations=true&bg_color=09090d&title_color=d2738a&text_color=a1a1aa&icon_color=63c5ff&border_color=22222c&border_radius=5" width="49.2%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NojinNojs&layout=compact&langs_count=6&bg_color=09090d&title_color=d2738a&text_color=a1a1aa&border_color=22222c&border_radius=5" width="49.2%" alt="Top Languages" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/NojinNojs">
+    <img src="https://streak-stats.demolab.com?user=NojinNojs&theme=dark&background=09090D&border=22222C&border_radius=5&ring=D2738A&fire=63C5FF&currStreakLabel=D2738A&sideLabels=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=71717A" width="99.5%" alt="Streak Stats" />
+  </a>
+</div>
 
-Comments explain *why*. Unused code gets deleted. Files stay small enough to hold in your head.
+<br />
 
-## what are you not the right person for?
-
-Native mobile, game engines, pure visual design. Better said now than learned on your budget.
-
-## what are you learning?
-
-Systems and kernel internals, security, and a bit of blockchain — the things that make the rest of the stack less of a mystery.
-
-## how do you reach me?
-
-X or Discord is fastest, and I answer within a day. Email on request. I'm on WIB (UTC+7), which overlaps Europe in the morning and the US late at night.
-
-If you'd rather read code than prose: **[nojin-card](https://github.com/NojinNojs/nojin-card)** is the source of the page above — 40 KB total, one 2 KB script, no framework runtime.
+<div align="center">
+  <img src="./assets/suburban-wires.jpg" alt="the wired" width="100%" />
+  <br />
+  <sub><i>no matter where you go, everyone's connected.</i></sub>
+</div>
